@@ -1,0 +1,36 @@
+#+OPTIONS: date:nil title:nil toc:nil author:nil
+#+STARTUP: overview
+* Laboratorio di Algoritmi e Strutture Dati
+#+BEGIN_HTML
+<div align="center">
+
+  <!-- License -->
+  <a href="https://github.com/luftmensch-luftmensch/LASD/LICENSE"
+          ><img
+              src="https://img.shields.io/badge/License-GPL_v3-blue.svg?style=for-the-badge&color=red"
+              alt="License"
+      /></a>
+
+  <!-- Repository Size -->
+  <a href="https://github.com/luftmensch-luftmensch/LASD/archive/refs/heads/main.zip"
+          ><img
+              src="https://img.shields.io/github/repo-size/luftmensch-luftmensch/LASD?style=for-the-badge"
+              alt="GitHub repository size"
+      /></a>
+
+  <!-- Last commit -->
+  <a href="https://github.com/luftmensch-luftmensch/LASD/commits/main"
+          ><img
+              src="https://img.shields.io/github/last-commit/luftmensch-luftmensch/LASD?style=for-the-badge"
+              alt="Last commit"
+      /></a>
+ <!-- Work on my machine -->
+ <a href="https://img.shields.io/badge/WORKS%20ON-MY%20MACHINE-red?style=for-the-badge"
+           ><img
+             src="https://img.shields.io/badge/WORKS%20ON-MY%20MACHINE-red?style=for-the-badge"
+             alt="Work on my machine"
+      /></a>
+</div>
+#+END_HTML
+* About
+Implementazioni in ~C++~ delle librerie assegnate durante il corso di Laboratorio di Algoritmi e Strutture Dati alla Federico II
